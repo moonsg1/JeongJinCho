@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "87851471590",
+    "project_id": "firebase-jjcho"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87851471590:android:c61d0da0eaed1a91",
+        "android_client_info": {
+          "package_name": "yale_ms.jeongjincho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWO84VdQuqZTdcG9j-xLxOTkZlJ3chUg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
